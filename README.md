@@ -1,2 +1,2 @@
 # FlappyBirdIgor
-Meu primeiro jogo
+My first game
